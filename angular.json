@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "rxjs-playground"
+  "defaultProject": "rxjs-playground",
+  "cli": {
+    "analytics": false
+  }
 }
